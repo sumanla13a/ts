@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitReturns": true,
+		"noImplicitAny": true,
+        "sourceMap": true,
+        "outFile": "./bundle.js"
+    },
+    "files": [
+    	"exercise1.ts",
+    	"exercise2.ts",
+    	"exercise3.ts",
+    	"exercise4.ts"
+    ]
+}
